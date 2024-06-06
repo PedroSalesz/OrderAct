@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.exe
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.deps.json
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.runtimeconfig.json
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.dll
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\bin\Debug\net8.0\ProjectOrder.pdb
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.dll
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\refint\ProjectOrder.dll
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.pdb
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ProjectOrder.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Project Order\ProjectOrder\ProjectOrder\obj\Debug\net8.0\ref\ProjectOrder.dll
